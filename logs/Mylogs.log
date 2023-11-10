@@ -1,0 +1,4 @@
+[INFO ] 2023-11-10 18:15:22.280 [main] LessonEndProject -  this is information message
+[ERROR] 2023-11-10 18:15:22.286 [main] LessonEndProject -  this is an error message
+[FATAL] 2023-11-10 18:15:22.286 [main] LessonEndProject -  this is a fatal messgae
+[WARN ] 2023-11-10 18:15:22.287 [main] LessonEndProject -  this is a warning message
